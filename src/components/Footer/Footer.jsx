@@ -13,7 +13,7 @@ const socialLinks = [
     icon: <AiFillGithub className="group-hover:text-white w-4 h-5" />,
   },
   {
-    path: "https://www.youtube.com/abdulwahab-aw",
+    path: "https://www.youtube.com/abdul-wahab-aw",
     icon: <AiFillYoutube className="group-hover:text-white w-4 h-5" />,
   },
   {
